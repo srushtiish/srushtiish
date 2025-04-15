@@ -1,4 +1,8 @@
-## Hi there 👋
+## hello, srushti here. 
+im 20. currently exploring computational biology and interested in MND research specifically ALS
+
+
+
 
 <!--
 **srushtiish/srushtiish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
